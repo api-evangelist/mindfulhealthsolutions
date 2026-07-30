@@ -1,9 +1,28 @@
 aid: mindfulhealthsolutions
-name: Mindfulhealthsolutions
-description: 'Mindfulhealthsolutions is a company surfaced as a portfolio company of norwest-venture-partners
-  and added to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a
-  lead awaiting the enrichment pipeline.'
+name: Mindful Health Solutions
+description: >-
+  Mindful Health Solutions is a behavioral-health-care provider specializing in innovative, evidence-based
+  psychiatric treatments for depression, anxiety, PTSD, OCD, and other treatment-resistant conditions. Founded
+  in 2007 (originally as TMS Health Solutions) by Dr. Richard Bermudes, the company pioneered TMS-focused
+  clinics in the United States and offers Transcranial Magnetic Stimulation (TMS), SPRAVATO (esketamine) nasal
+  spray, IV Ketamine infusion therapy, medication management, and psychiatric care across roughly 20 clinics in
+  California, Texas, and Washington. Mindful Health Solutions maintains one of the world's largest TMS and
+  esketamine patient-outcome repositories. It is a portfolio company of Norwest Venture Partners. As a clinical
+  healthcare provider it publishes no public developer API; this profile captures its identity, an AI-crawler
+  llms.txt it publishes, and its domain-security posture.
 url: https://raw.githubusercontent.com/api-evangelist/mindfulhealthsolutions/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://mindfulhealthsolutions.com/wp-content/uploads/mindful-health-solutions-logo.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +31,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
-- Unknown
+- Healthcare
+- Behavioral Health
+- Mental Health
+- Psychiatry
+- TMS Therapy
+- Telehealth
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +49,24 @@ maintainers:
 common:
 - type: Website
   url: https://mindfulhealthsolutions.com
+- type: About
+  url: https://mindfulhealthsolutions.com/about/
+- type: Blog
+  url: https://mindfulhealthsolutions.com/articles-blogs/
+- type: Support
+  url: https://mindfulhealthsolutions.com/contact-us/
+- type: PrivacyPolicy
+  url: https://mindfulhealthsolutions.com/privacy-policy/
+- type: SignUp
+  url: https://pxpportal.nextgen.com/mindfulhealthsolutions-27683/portal/#/user/login
+- type: LLMsTxt
+  url: llms/mindfulhealthsolutions-llms.txt
+- type: DomainSecurity
+  url: security/mindfulhealthsolutions-domain-security.yml
+- type: WellKnown
+  url: well-known/mindfulhealthsolutions-well-known.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
