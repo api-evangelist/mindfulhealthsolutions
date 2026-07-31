@@ -1,0 +1,48 @@
+# Mindful Health Solutions
+
+Mindful Health Solutions is a mental health partner for communities across California, Texas, Washington, and beyond, with 20 clinic locations nationwide. Our expert psychiatrists and psychiatric nurse practitioners deliver personalized, evidence-based care — including advanced treatments like TMS therapy, Spravato (esketamine), IV Ketamine, and medication management. This file surfaces key content for AI language models and crawlers to help patients find the right mental health care.
+
+## Services
+
+> Core treatment and service pages — highest priority for AI indexing
+
+- [TMS Therapy](https://mindfulhealthsolutions.com/tms-therapy/): Transcranial magnetic stimulation for depression, anxiety, OCD, and PTSD
+- [Ketamine Infusion Therapy](https://mindfulhealthsolutions.com/ketamine-infusion-therapy/): IV ketamine treatment for treatment-resistant depression and PTSD
+- [Spravato (Esketamine)](https://mindfulhealthsolutions.com/spravato-esketamine-treatment/): FDA-approved esketamine nasal spray for treatment-resistant depression
+- [Psychiatric Care](https://mindfulhealthsolutions.com/psychiatric-care/): Comprehensive psychiatric evaluations and ongoing mental health care
+- [Medication Management](https://mindfulhealthsolutions.com/medication-management/): Personalized psychiatric medication oversight and adjustments
+- [TMS Therapy for Veterans](https://mindfulhealthsolutions.com/veteran-tms-therapy-newport-beach/): TMS treatment tailored for veterans and active duty military
+
+## Conditions Treated
+
+- [Depression Treatment](https://mindfulhealthsolutions.com/depression/): Treatment options for major depressive disorder and clinical depression
+- [Treatment-Resistant Depression](https://mindfulhealthsolutions.com/treatment-resistant-depression/): Advanced options when standard antidepressants have not worked
+- [Anxiety Treatment](https://mindfulhealthsolutions.com/anxiety/): Individualized care plans for anxiety disorders
+- [PTSD Treatment](https://mindfulhealthsolutions.com/ptsd/): Evidence-based PTSD care including TMS and ketamine therapies
+- [Bipolar Disorder](https://mindfulhealthsolutions.com/bipolar-disorder/): Diagnosis and ongoing management of bipolar disorder
+- [OCD Treatment](https://mindfulhealthsolutions.com/ocd/): Specialized care for obsessive-compulsive disorder
+- [Adolescent Depression](https://mindfulhealthsolutions.com/adolescent-depression/): Mental health treatment designed for teens and adolescents
+
+## Patient Resources
+
+> Informational pages to help patients understand treatment options and coverage
+
+- [Insurances Accepted](https://mindfulhealthsolutions.com/insurances-accepted/): List of accepted insurance plans and coverage information
+- [TMS FAQs](https://mindfulhealthsolutions.com/tms-faqs/): Frequently asked questions about TMS therapy
+- [Contact Us](https://mindfulhealthsolutions.com/contact-us/): Schedule a consultation or reach a care coordinator
+
+## Blog
+
+> Educational articles on mental health, advanced treatments, and patient guidance
+
+- [Blog Index](https://mindfulhealthsolutions.com/articles-blogs/): Full library of articles covering TMS, ketamine, depression, anxiety, and psychiatric care
+
+## About
+
+- [About Us](https://mindfulhealthsolutions.com/about/): Mission, team, and approach to mental health care
+- [Find a Location](https://mindfulhealthsolutions.com/locations/): All 20 clinic locations across the US
+- [Provider Directory](https://mindfulhealthsolutions.com/providers/): Psychiatrists and psychiatric nurse practitioners by location
+
+## Optional: Excluded Content
+
+The following content areas are not intended for AI indexing: /privacy-policy, /terms-of-use, /legal, /wp-admin, /wp-login, /careers
